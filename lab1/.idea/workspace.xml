@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aa54f18-fdcb-44c5-bd89-359d0759e1ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab2/var2_task9/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var1_task1/var1_task1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var1_task2/var1_task2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var2_task4/var2_task4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var2_task5/var2_task5.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2MVZncicnVdZizNfOYRXZisJGWG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/egorshmorgun/BigDataJava/lab1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aa54f18-fdcb-44c5-bd89-359d0759e1ff" name="Changes" comment="" />
+      <created>1677854877700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677854877700</updated>
+    </task>
+    <servers />
+  </component>
+</project>
