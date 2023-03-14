@@ -46,4 +46,28 @@ public class QuadraticEquation {
     public double find_extreme() {
         return -b / (2 * a);
     }
+
+    public Double[] decrease_interval() {
+        Double[] result;
+        if (a > 0) {
+            result = new Double[]{Double.NEGATIVE_INFINITY, find_extreme()};
+
+        } else {
+            result = new Double[]{find_extreme(), Double.POSITIVE_INFINITY};
+
+        }
+        return result;
+    }
+
+    public Double[] increase_interval() {
+        Double[] result;
+        if (a < 0) {
+            result = new Double[]{Double.NEGATIVE_INFINITY, find_extreme()};
+
+        } else {
+            result = new Double[]{find_extreme(), Double.POSITIVE_INFINITY};
+
+        }
+        return result;
+    }
 }
