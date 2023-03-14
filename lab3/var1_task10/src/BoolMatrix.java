@@ -82,6 +82,27 @@ public class BoolMatrix {
         return counter;
     }
 
+    public void sort() {
+        for (int i = 0; i < n; i++) {
+            int min_row_value = row_value(i);
+            int min_row_index = i;
+
+            for (int j = i + 1; j < n; j++) {
+                if (row_value(j) < min_row_value) {
+                    min_row_value = row_value(j);
+                    min_row_index = j;
+                }
+            }
+
+            if (min_row_index != i) {
+                boolean[] tmp = matrix[i];
+
+                matrix[i] = matrix[min_row_index];
+                matrix[min_row_index] = tmp;
+            }
+        }
+    }
+
     public void print() {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
@@ -90,7 +111,17 @@ public class BoolMatrix {
 
             System.out.printf("\n");
         }
+    }
 
+    public int row_value(int row_number) {
+        int result = 0;
 
+        for (int i = m - 1; i >= 0; i--) {
+            if (matrix[row_number][i]) {
+                result += Math.pow(2, m - i - 1);
+            }
+        }
+
+        return result;
     }
 }
