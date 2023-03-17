@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="781943a5-b2a1-4216-9fe0-d379250e53e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/var1_task10/var1_task10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var1_task9/var1_task9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var2_task10/var2_task10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var2_task9/var2_task9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/var3_task9/src/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/var3_task9/src/Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/var3_task9/src/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/var3_task9/src/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/var3_task9/src/Year.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/var3_task9/src/Year.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N97EsoQxqbZltjVyRtziNMT4Mn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/egorshmorgun/BigDataJava/lab2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="781943a5-b2a1-4216-9fe0-d379250e53e1" name="Changes" comment="" />
+      <created>1679064335171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679064335171</updated>
+    </task>
+    <servers />
+  </component>
+</project>

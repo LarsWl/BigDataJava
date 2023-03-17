@@ -5,13 +5,27 @@ public class Day {
         this.number = number;
     }
 
-    public static enum Name{
-        MONDAY,
-        TUESDAY,
-        WEDNESDAY,
-        THURSDAY,
-        FRIDAY,
-        SATURDAY,
-        SUNDAY
+    public int getNumber() { return number; }
+
+    public int hashCode() {
+        return number;
     }
+
+    public String toString() {
+        return String.format("Day: %s", number);
+    }
+
+    public boolean equals(Day day) {
+        return this.number == day.number;
+    }
+
+    public static String[] NAMES = {
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+    };
 }
