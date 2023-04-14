@@ -1,0 +1,9 @@
+Operations result:
+true, true, true, 
+true, false, true, 
+false, false, false, 
+Count: 5
+Sort second matrix:
+false, false, true, 
+false, false, true, 
+true, true, false, 

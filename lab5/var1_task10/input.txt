@@ -1,0 +1,12 @@
+3 3
+false true false
+true false true
+false true false
+3 3
+true true false
+false false true
+false false true
+3 3
+false false false
+false true false
+true true true
