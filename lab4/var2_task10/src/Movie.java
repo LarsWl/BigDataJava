@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Movie {
+public interface Movie {
+    public void show();
 }
